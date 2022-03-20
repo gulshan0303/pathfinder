@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/pathfinder/static/css/main.33530567.chunk.css",
+    "main.js": "/pathfinder/static/js/main.b32ff505.chunk.js",
+    "main.js.map": "/pathfinder/static/js/main.b32ff505.chunk.js.map",
+    "runtime-main.js": "/pathfinder/static/js/runtime-main.8619c870.js",
+    "runtime-main.js.map": "/pathfinder/static/js/runtime-main.8619c870.js.map",
+    "static/css/2.9c6edd8a.chunk.css": "/pathfinder/static/css/2.9c6edd8a.chunk.css",
+    "static/js/2.51f7b169.chunk.js": "/pathfinder/static/js/2.51f7b169.chunk.js",
+    "static/js/2.51f7b169.chunk.js.map": "/pathfinder/static/js/2.51f7b169.chunk.js.map",
+    "index.html": "/pathfinder/index.html",
+    "static/css/2.9c6edd8a.chunk.css.map": "/pathfinder/static/css/2.9c6edd8a.chunk.css.map",
+    "static/css/main.33530567.chunk.css.map": "/pathfinder/static/css/main.33530567.chunk.css.map",
+    "static/js/2.51f7b169.chunk.js.LICENSE.txt": "/pathfinder/static/js/2.51f7b169.chunk.js.LICENSE.txt",
+    "static/media/binaryTree.6d8ce938.png": "/pathfinder/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/pathfinder/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/pathfinder/static/media/graph.6e6849d5.png",
+    "static/media/primes.72a2f33f.jpg": "/pathfinder/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.a967028b.png": "/pathfinder/static/media/queen.a967028b.png",
+    "static/media/queen.b2332ba3.PNG": "/pathfinder/static/media/queen.b2332ba3.PNG",
+    "static/media/index.css": "/pathfinder/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/pathfinder/static/media/sort.117e08fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8619c870.js",
+    "static/css/2.9c6edd8a.chunk.css",
+    "static/js/2.51f7b169.chunk.js",
+    "static/css/main.33530567.chunk.css",
+    "static/js/main.b32ff505.chunk.js"
+  ]
+}
