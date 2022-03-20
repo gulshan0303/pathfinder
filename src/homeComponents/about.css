@@ -1,0 +1,97 @@
+body{
+    background-color: #28223f;
+}
+
+.about{
+  
+    margin: 100px auto;
+    background: #231e39;
+    border-radius: 5px;
+    color: #b3b8cd;
+    width: 350px;
+    text-align: center;
+    box-shadow: 0 10px 20px -10px rgba(0,0,0,0.75);
+}
+
+.cover-photo{
+    background: url(https://resumespice.com/wp-content/uploads/2021/03/13.png)
+    ;
+    width: 100%;
+    height: 160px;
+    border-radius: 5px 5px 0 0;
+
+}
+.aboutMe{
+    margin-top: 35px;
+    line-height: 21px;
+    
+    font-size: 15px;
+}
+
+button{
+    margin: 10px 0 40px 0;
+
+}
+.msg-btn,.flo-btn{
+    background: #03bfbc;
+    border: 1px solid  03bfbc;
+    padding: 10px 25px;
+    color: #231e39;
+    border-radius: 3px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.flo-btn{
+    margin-left: 10px;
+    background: transparent;
+    color: #02899c;
+}
+
+.flo-btn:hover{
+    color: #231e39;
+    background: #03bfbc;
+    transition: .5s;
+}
+
+
+
+.profile{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin: 93px 0 0 -175px;
+    border: 1px solid #1f1a32;
+    padding: 7px;
+    background: #292343;
+}
+
+.profile-name{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 27px 0 0 120px;
+}
+
+.icons i{
+    border-radius: 12px;
+    margin-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.icons i:hover{
+    color: #03bfbc;
+
+}
+.last-btn{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background: transparent;
+    color: #fff;
+}
+.last-btn:hover{
+    color: #03bfbc;
+}
