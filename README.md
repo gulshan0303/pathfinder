@@ -4,9 +4,8 @@
 
 A better visualization of different algorithms made with React. 
 
-Visit : https://gulshan0303.github.io/AlgorithmVisualizer/
+Visit : https://gulshan0303.github.io/pathfinder/
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.AlgorithmVisualizer)
 
 This is made to be the second version of my previous pathfinding project made with C++ igraphics. But then added some more visualizations too.  
 
