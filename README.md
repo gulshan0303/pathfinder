@@ -4,7 +4,7 @@
 
 A better visualization of different algorithms made with React. 
 
-Visit : https://tamimehsan.github.io/AlgorithmVisualizer/
+Visit : https://gulshan0303.github.io/AlgorithmVisualizer/
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.AlgorithmVisualizer)
 
